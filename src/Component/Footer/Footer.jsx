@@ -9,8 +9,8 @@ import { FaLocationDot } from "react-icons/fa6";
 
 const Footer = () => {
     return (
-        <div className="footerbg bg-base-200">
-            <footer className="footer p-10  max-w-5xl mx-auto">
+        <div className="footerbg bg-base-200 mt-10">
+            <footer className="footer p-10  max-w-5xl mx-auto ">
                 <div>
                     <h6 className="text-3xl font-bold">Espresso Emporium</h6>
                     <h1 className="mt-3">Always ready to be your friend. Come & Contact with us to share your<br></br>
