@@ -1,0 +1,45 @@
+[
+    {
+      "coffee_id": 1,
+      "coffee_img": "../src/assets/images/1.png",
+      "coffee_name": "Espresso",
+      "coffee_chef": "John Doe",
+      "coffee_price": 2.99
+    },
+    {
+      "coffee_id": 2,
+      "coffee_img": "../src/assets/images/2.png",
+      "coffee_name": "Cappuccino",
+      "coffee_chef": "Jane Smith",
+      "coffee_price": 3.49
+    },
+    {
+      "coffee_id": 3,
+      "coffee_img": "../src/assets/images/3.png",
+      "coffee_name":"Latte",
+      "coffee_chef": "Bob Johnson",
+      "coffee_price": 4.99
+    },
+    {
+      "coffee_id": 4,
+      "coffee_img": "../src/assets/images/4.png",
+      "coffee_name": "Americano",
+      "coffee_chef": "Alice Brown",
+      "coffee_price": 3.99
+    },
+    {
+      "coffee_id": 5,
+      "coffee_img": "../src/assets/images/5.png",
+      "coffee_name": "Mocha",
+      "coffee_chef": "David White",
+      "coffee_price": 5.49
+    },
+    {
+      "coffee_id": 6,
+      "coffee_img": "../src/assets/images/6.png",
+      "coffee_name": "Macchiato",
+      "coffee_chef": "Eva Black",
+      "coffee_price": 4.49
+    }
+  ]
+  

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background{
+    background-image:url(../src/assets/images/more/3.png);
+    height:800px;
+    }
+.product{
+    background-image: url(../src/assets/images/more/4.png);
+   height:330px;
+   
+   }
+.producttwo{
+    
+    background-image: url(../src/assets/images/more/5.png);
+    height:800px;
+    margin-top:-100px
+    
+    }
+    .footerbg{
+        background-image:url(../src//assets//images/more/13.jpg)
+    }
+    .copyRight{
+        background-image:url(../src/assets/images/more/24.jpg);
+  height:50px
+    }
+

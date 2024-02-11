@@ -1,0 +1,35 @@
+[
+    
+    {
+        "id": 2,
+        "img": "../src/assets/images/cups/Rectangle 9.png"
+    },
+    {
+        "id": 3,
+        "img": "../src/assets/images/cups/Rectangle 10.png"
+    },
+    {
+        "id": 4,
+        "img": "../src/assets/images/cups/Rectangle 11.png"
+    },
+    {
+        "id": 5,
+        "img": "../src/assets/images/cups/Rectangle 12.png"
+    },
+    {
+        "id": 6,
+        "img": "../src/assets/images/cups/Rectangle 13.png"
+    },
+    {
+        "id": 7,
+        "img": "../src/assets/images/cups/Rectangle 14.png"
+    },
+    {
+        "id": 8,
+        "img": "../src/assets/images/cups/Rectangle 15.png"
+    },
+    {
+        "id": 9,
+        "img": "../src/assets/images/cups/Rectangle 16.png"
+    }
+]
